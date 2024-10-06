@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bf2fca284e3d33c0","x":94,"y":403,"width":400,"height":400,"type":"file","file":"1 - Rough Notes/Studies show highly successful peoples have a different thing except from resist to resistance and have a strong willpower.md"},
+		{"id":"afd90bfae4b08db7","x":-125,"y":-30,"width":250,"height":130,"color":"2","type":"text","text":""},
+		{"id":"110b0bff9e588346","x":44,"y":213,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"2cac24002ed9dcdd","fromNode":"afd90bfae4b08db7","fromSide":"bottom","toNode":"110b0bff9e588346","toSide":"top"},
+		{"id":"a483917d3b27b294","fromNode":"110b0bff9e588346","fromSide":"bottom","toNode":"bf2fca284e3d33c0","toSide":"top"}
+	]
+}

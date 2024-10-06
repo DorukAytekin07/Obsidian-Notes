@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "334a6551ac373408",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce150acece6319b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f991b6d937ed2a71",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Todos.canvas",
+                "viewState": {
+                  "x": 265,
+                  "y": -270.81999999999994,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28eab1b4f2db355e",
+    "type": "split",
+    "children": [
+      {
+        "id": "91dbbcf70263555a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25eb971d1dcf06ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e1963fbe58d5914",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8db6a64f9fb353a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "cbdc2b7f8291e9be",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31ee9cb21c51088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3feb0e31fd24c6c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvas/Todos.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40f317aaba884727",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvas/Todos.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4584c2c058824d31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4801837ea0cc0bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvas/Todos.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f991b6d937ed2a71",
+  "lastOpenFiles": [
+    "English Words/10-03-2024.md",
+    "Canvas/Todos.canvas",
+    "Canvas",
+    "English Words/10-02-2024.md",
+    "Untitled.md",
+    "Daily Notes/10-01-2024.md",
+    "English Words/10-01-2024.md",
+    "English Words/09-30-2024.md",
+    "Daily Notes/09-29-2024.md",
+    "Daily Reports.md",
+    "Permanent Notes",
+    "Fleeting Notes",
+    "English Words",
+    "Templates",
+    "Daily Notes/09/29/2024.md",
+    "2024-09-29.md",
+    "Daily Notes/09/29",
+    "Daily Notes/09",
+    "Daily Notes",
+    "1 - Rough Notes/This books is reflect our ideas about school.md",
+    "1 - Rough Notes/Studies show highly successful peoples have a different thing except from resist to resistance and have a strong willpower.md",
+    "1 - Rough Notes/Really we don't do that we don't want to do in this note taking system without losing the big picture.md",
+    "1 - Rough Notes/I just learned i am a poor student at least for now.md",
+    "1 - Rough Notes/Getting Things Done Method GTD.md",
+    "1 - Rough Notes/Don't waste any idea in the future they might be useful.md",
+    "2 - Source Material/📙 How To Takes Smart Notes.md",
+    "1 - Rough Notes/Writing is not main part the main part is thinking and understanding.md",
+    "6 - Main Notes/Why and where we need to write.md",
+    "6 - Main Notes/It's still dissing my old note taking system i always worked for build a complex system.md",
+    "3 - Tags/our old mistakes.md",
+    "7 - Keywords/Imposter Syndrome.md",
+    "7 - Keywords/Black Screen.md",
+    "6 - Main Notes/I am starting now this zettelkasten system start with more complexity and reduce it eventually.md",
+    "3 - Tags/flexibility and freedom of zettelkasten.md",
+    "7 - Keywords",
+    "4 - Indexes"
+  ]
+}

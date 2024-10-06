@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"753b64a5bf9eb0b1","x":-220,"y":-160,"width":250,"height":80,"color":"1","type":"text","text":"Making Gates With Transistors"},
+		{"id":"f4c5c111b5f54042","x":-95,"y":-300,"width":385,"height":100,"color":"1","type":"text","text":"Configure Your Waybar And Make More Usable Your Hyprland"},
+		{"id":"076e2cbcf9d40f1a","x":160,"y":-160,"width":260,"height":80,"color":"1","type":"text","text":"Solving Interview Problems"}
+	],
+	"edges":[]
+}

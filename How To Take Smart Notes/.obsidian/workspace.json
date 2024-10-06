@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "334a6551ac373408",
+    "type": "split",
+    "children": [
+      {
+        "id": "23f6800ff089c7bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbd928391d6e51a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28eab1b4f2db355e",
+    "type": "split",
+    "children": [
+      {
+        "id": "91dbbcf70263555a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25eb971d1dcf06ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e1963fbe58d5914",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8db6a64f9fb353a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "cbdc2b7f8291e9be",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31ee9cb21c51088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3feb0e31fd24c6c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40f317aaba884727",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4584c2c058824d31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4801837ea0cc0bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fbd928391d6e51a8",
+  "lastOpenFiles": [
+    "6 - Main Notes/There is no such a thing that can be achieve easily you have to always put an effort.md",
+    "3 - Tags/there is no easy thing.md",
+    "1 - Rough Notes/Getting Things Done Method GTD.md",
+    "6 - Main Notes/Writing is not main part the main part is thinking and understanding.md",
+    "6 - Main Notes/why get ready take too long for us.md",
+    "6 - Main Notes/Why and where we need to write.md",
+    "6 - Main Notes/This books is reflect our ideas about school.md",
+    "6 - Main Notes/Studies show highly successful peoples have a different thing except from resist to resistance and have a strong willpower.md",
+    "6 - Main Notes/Simplicity is paramount.md",
+    "6 - Main Notes/Really we don't do that we don't want to do in this note taking system without losing the big picture.md",
+    "6 - Main Notes/Now it is dissing to schools and mentioned the benefits of academies.md",
+    "6 - Main Notes/It's still dissing my old note taking system i always worked for build a complex system.md",
+    "6 - Main Notes/I just learned i am a poor student at least for now.md",
+    "6 - Main Notes/I am starting now this zettelkasten system start with more complexity and reduce it eventually.md",
+    "6 - Main Notes/How to take notes.md",
+    "6 - Main Notes/Don't waste any idea in the future they might be useful.md",
+    "6 - Main Notes/Do not complicated the unnecessary things.md",
+    "6 - Main Notes/Better student takes more time with their sentences.md",
+    "3 - Tags/simplicity is important.md",
+    "2 - Source Material/📙 How To Takes Smart Notes.md",
+    "7 - Keywords/Black Screen.md",
+    "5 - Templates/Note Template.md",
+    "3 - Tags/properties of successful students.md",
+    "3 - Tags/same ideas of me and book.md",
+    "3 - Tags/badness of schools.md",
+    "1 - Rough Notes/Studies show highly successful peoples have a different thing except from resist to resistance and have a strong willpower 1.md",
+    "Untitled.canvas",
+    "7 - Keywords",
+    "4 - Indexes",
+    "3 - Tags",
+    "1 - Rough Notes",
+    "5 - Templates",
+    "2 - Source Material",
+    "6 - Main Notes",
+    "5 - Templates",
+    "Literature Notes",
+    "Fleeting Notes"
+  ]
+}

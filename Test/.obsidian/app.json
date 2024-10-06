@@ -1,0 +1,11 @@
+{
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "vimMode": true,
+  "showRibbon": true,
+  "propertiesInDocument": "visible",
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "newFileLocation": "current",
+  "trashOption": "local"
+}

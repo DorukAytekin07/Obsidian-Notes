@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Atom",
+  "accentColor": "#76abae",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Hack Nerd Font",
+  "textFontFamily": "Hack Nerd Font",
+  "monospaceFontFamily": "Hack Nerd Font",
+  "baseFontSizeAction": false,
+  "nativeMenus": true,
+  "theme": "obsidian"
+}
