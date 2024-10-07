@@ -1,36 +1,18 @@
 {
   "main": {
-    "id": "334a6551ac373408",
+    "id": "5ef089c4ef128f68",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "1166740cf1414368",
+        "id": "1ad05147695ca9e6",
         "type": "tabs",
         "children": [
           {
-            "id": "89ca891b5cc7d64c",
-=======
-        "id": "0632c18be382f4c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb9c180eca7340bf",
->>>>>>> 3ca3d57f856a255c47daa02024f9914a7f195822
+            "id": "3afb3e888fddbd72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "1 - Rough Notes/Loop Detection.md",
-                "mode": "source",
-=======
-                "file": "1 - Rough Notes/Hashtables.md",
-                "mode": "preview",
->>>>>>> 3ca3d57f856a255c47daa02024f9914a7f195822
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -39,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28eab1b4f2db355e",
+    "id": "acf8100b65ae1dc0",
     "type": "split",
     "children": [
       {
-        "id": "91dbbcf70263555a",
+        "id": "b1584085da53b264",
         "type": "tabs",
         "children": [
           {
-            "id": "25eb971d1dcf06ee",
+            "id": "3bffcea0c17f1fd4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,12 +39,12 @@
             }
           },
           {
-            "id": "2e1963fbe58d5914",
+            "id": "38565976b224859e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "question",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +54,7 @@
             }
           },
           {
-            "id": "8db6a64f9fb353a3",
+            "id": "dfab53ca998feab4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,27 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 300
   },
   "right": {
-    "id": "cbdc2b7f8291e9be",
+    "id": "b49bfe60c5b6eca3",
     "type": "split",
     "children": [
       {
-        "id": "c31ee9cb21c51088",
+        "id": "66bb6559f592760b",
         "type": "tabs",
         "children": [
           {
-            "id": "3feb0e31fd24c6c7",
+            "id": "0c8096d654ae1738",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "1 - Rough Notes/Loop Detection.md",
-=======
-                "file": "1 - Rough Notes/Hashtables.md",
->>>>>>> 3ca3d57f856a255c47daa02024f9914a7f195822
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,23 +92,18 @@
             }
           },
           {
-            "id": "40f317aaba884727",
+            "id": "5d23ae0530883992",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "1 - Rough Notes/Loop Detection.md",
-=======
-                "file": "1 - Rough Notes/Hashtables.md",
->>>>>>> 3ca3d57f856a255c47daa02024f9914a7f195822
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4584c2c058824d31",
+            "id": "a486c414548f8249",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,17 +114,11 @@
             }
           },
           {
-            "id": "e4801837ea0cc0bc",
+            "id": "f5407c396ec7ad14",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "1 - Rough Notes/Loop Detection.md"
-=======
-                "file": "1 - Rough Notes/Hashtables.md"
->>>>>>> 3ca3d57f856a255c47daa02024f9914a7f195822
-              }
+              "state": {}
             }
           }
         ]
@@ -174,82 +140,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-<<<<<<< HEAD
-  "active": "89ca891b5cc7d64c",
+  "active": "3afb3e888fddbd72",
   "lastOpenFiles": [
-    "1 - Rough Notes/Intersection.md",
-    "1 - Rough Notes/Loop Detection.md",
-    "1 - Rough Notes/Palindrome.md",
-    "1 - Rough Notes/Palindrome Permutation.md",
-    "1 - Rough Notes/Sum Lists.md",
-    "1 - Rough Notes/Partition.md",
-    "1 - Rough Notes/Delete Middle Node.md",
-    "1 - Rough Notes/Return Kth to Last.md",
-    "1 - Rough Notes/Remove Duplicates.md",
+    "6 - Main Notes/URLify.md",
+    "6 - Main Notes/Checking Permutation.md",
     "5 - Templates/Questions' Template.md",
-    "1 - Rough Notes/Checking Permutation.md",
-    "1 - Rough Notes/ArrayList & And Resizable Arrays.md",
-    "1 - Rough Notes/Runner Technique.md",
-    "1 - Rough Notes/Implementing The LinkedLists.md",
-    "1 - Rough Notes/Deleting A Node From LinkedList.md",
-    "3 - Tags/problem solving techniques.md",
-    "3 - Tags/implementing data structure.md",
-    "3 - Tags/operations on data structures.md",
-    "3 - Tags/question.md",
-    "1 - Rough Notes/LinkedList.md",
-    "2 - Source Materials/📙 Cracking The Coding Interviews.md",
-    "1 - Rough Notes/Is Unique.md",
-    "1 - Rough Notes/One Away.md",
-    "1 - Rough Notes/Hashtables.md",
-    "1 - Rough Notes/Rotate Matrix.md",
-    "1 - Rough Notes/String Compression.md",
-    "6 - Keywords",
-=======
-  "active": "cb9c180eca7340bf",
-  "lastOpenFiles": [
-    "1 - Rough Notes/One Away.md",
-    "1 - Rough Notes/Palindrome Permutation.md",
-    "1 - Rough Notes/Rotate Matrix.md",
-    "1 - Rough Notes/String Rotation.md",
-    "1 - Rough Notes/URLify.md",
-    "6 - Main Notes/Is Unique.md",
-    "6 - Main Notes",
-    "4 - Indexes",
-    "3 - Tags/question.md",
-    "2 - Source Materials/📙 Cracking The Coding Interviews.md",
-    "1 - Rough Notes/Checking Permutation.md",
-    "1 - Rough Notes/ArrayList & And Resizable Arrays.md",
-    "1 - Rough Notes/Hashtables.md",
-    "1 - Rough Notes/String Compression.md",
-    "1 - Rough Notes/Zero Matrix.md",
-    "1 - Rough Notes/obne.md",
-    "5 - Templates/Questions' Template.md",
-    "1 - Rough Notes/Untitled.md",
-    "1 - Rough Notes/ArrayList & And Resizable Arrays 1.md",
-    "5 - Templates/Notes' Template.md",
-    "3 - Tags/data structure.md",
-    "5 - Templates/Questions' Template 1.md",
-    "7 - Keywords",
->>>>>>> 3ca3d57f856a255c47daa02024f9914a7f195822
-    "6 - Templates",
-    "5 - Templates",
-    "4 - Indexes",
-    "3 - Tags",
-    "2 - Source Materials",
-    "1 - Rough Notes",
-<<<<<<< HEAD
-    "Untitled.canvas",
-    "6 - Keywords",
-    "4 - Indexes",
-    "3 - Tags"
-=======
-    "Welcome.md",
-    "Untitled.md",
-    "3 - Tags/properties of successful students.md",
-    "6 - Main Notes/why get ready take too long for us.md",
-    "6 - Main Notes/Why and where we need to write.md",
-    "Untitled.canvas",
-    "7 - Keywords"
->>>>>>> 3ca3d57f856a255c47daa02024f9914a7f195822
+    "6 - Main Notes/Is Unique.md"
   ]
 }

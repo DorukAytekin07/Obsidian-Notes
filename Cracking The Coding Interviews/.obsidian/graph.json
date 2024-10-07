@@ -4,18 +4,18 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"1 - Rough Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 5408992
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:\"2 - Source Material\"  ",
+      "query": "path:\"2 - Source Materials\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -25,57 +25,62 @@
       "query": "path:\"3 - Tags\"  ",
       "color": {
         "a": 1,
-        "rgb": 4192269
+        "rgb": 11657298
       }
     },
     {
       "query": "path:\"4 - Indexes\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 5431378
       }
     },
     {
       "query": "path:\"5 - Templates\"  ",
       "color": {
         "a": 1,
-        "rgb": 13652704
-      }
-    },
-    {
-      "query": "path:\"7 - Keywords\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
+        "rgb": 5431473
       }
     },
     {
       "query": "path:\"6 - Main Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 1955737
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.10931017848529,
-  "lineSizeMultiplier": 1.854065085903,
-  "collapse-forces": false,
-<<<<<<< HEAD
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 1.8407900811575515,
-  "close": true
-=======
-  "centerStrength": 0,
-  "repelStrength": 0,
-  "linkStrength": 0,
-  "linkDistance": 30,
-  "scale": 0.41780955363886163,
+  "linkDistance": 250,
+  "scale": 0.6666666666666666,
   "close": false
->>>>>>> 3ca3d57f856a255c47daa02024f9914a7f195822
 }
