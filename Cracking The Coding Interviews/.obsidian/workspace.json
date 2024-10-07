@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "52dc0a188265ca07",
+        "id": "1166740cf1414368",
         "type": "tabs",
         "children": [
           {
-            "id": "8524f9eb48c95013",
+            "id": "89ca891b5cc7d64c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/question.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13f349704e1800eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Is Unique.md",
-                "mode": "preview",
+                "file": "1 - Rough Notes/Loop Detection.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Is Unique.md",
+                "file": "1 - Rough Notes/Loop Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Is Unique.md",
+                "file": "1 - Rough Notes/Loop Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Is Unique.md"
+                "file": "1 - Rough Notes/Loop Detection.md"
               }
             }
           }
@@ -163,43 +149,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "13f349704e1800eb",
+  "active": "89ca891b5cc7d64c",
   "lastOpenFiles": [
-    "3 - Tags/question.md",
+    "1 - Rough Notes/Intersection.md",
+    "1 - Rough Notes/Loop Detection.md",
+    "1 - Rough Notes/Palindrome.md",
+    "1 - Rough Notes/Palindrome Permutation.md",
+    "1 - Rough Notes/Sum Lists.md",
+    "1 - Rough Notes/Partition.md",
+    "1 - Rough Notes/Delete Middle Node.md",
+    "1 - Rough Notes/Return Kth to Last.md",
+    "1 - Rough Notes/Remove Duplicates.md",
+    "5 - Templates/Questions' Template.md",
     "1 - Rough Notes/Checking Permutation.md",
+    "1 - Rough Notes/ArrayList & And Resizable Arrays.md",
+    "1 - Rough Notes/Runner Technique.md",
+    "1 - Rough Notes/Implementing The LinkedLists.md",
+    "1 - Rough Notes/Deleting A Node From LinkedList.md",
+    "3 - Tags/problem solving techniques.md",
+    "3 - Tags/implementing data structure.md",
+    "3 - Tags/operations on data structures.md",
+    "3 - Tags/question.md",
+    "1 - Rough Notes/LinkedList.md",
+    "2 - Source Materials/📙 Cracking The Coding Interviews.md",
     "1 - Rough Notes/Is Unique.md",
     "1 - Rough Notes/One Away.md",
-    "1 - Rough Notes/ArrayList & And Resizable Arrays.md",
     "1 - Rough Notes/Hashtables.md",
-    "1 - Rough Notes/Palindrome Permutation.md",
     "1 - Rough Notes/Rotate Matrix.md",
     "1 - Rough Notes/String Compression.md",
-    "1 - Rough Notes/String Rotation.md",
-    "1 - Rough Notes/URLify.md",
-    "1 - Rough Notes/Zero Matrix.md",
-    "1 - Rough Notes/obne.md",
-    "5 - Templates/Questions' Template.md",
-    "1 - Rough Notes/Untitled.md",
-    "1 - Rough Notes/ArrayList & And Resizable Arrays 1.md",
-    "2 - Source Materials/📙 Cracking The Coding Interviews.md",
-    "5 - Templates/Notes' Template.md",
-    "3 - Tags/data structure.md",
-    "5 - Templates/Questions' Template 1.md",
-    "7 - Keywords",
+    "6 - Keywords",
     "6 - Templates",
     "5 - Templates",
     "4 - Indexes",
     "3 - Tags",
     "2 - Source Materials",
     "1 - Rough Notes",
-    "Welcome.md",
-    "Untitled.md",
-    "3 - Tags/properties of successful students.md",
-    "6 - Main Notes/why get ready take too long for us.md",
-    "6 - Main Notes/Why and where we need to write.md",
-    "6 - Main Notes/This books is reflect our ideas about school.md",
     "Untitled.canvas",
-    "7 - Keywords",
+    "6 - Keywords",
     "4 - Indexes",
     "3 - Tags"
   ]

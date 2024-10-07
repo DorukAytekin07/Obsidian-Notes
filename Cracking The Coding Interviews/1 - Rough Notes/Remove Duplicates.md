@@ -1,10 +1,13 @@
-{{time:YYYY/MM/DD}}
-{{date:HH:mm}}
+2024/10/06
+20:14
 
 Status: #child 
 Tags: [[question]]
-# {{title}}
+# Remove Duplicates
 # Question
+
+Write code to remove duplicates from an unsorted linkedlist
+
 # Solution
 
 

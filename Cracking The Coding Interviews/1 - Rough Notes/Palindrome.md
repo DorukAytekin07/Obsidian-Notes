@@ -1,10 +1,12 @@
-{{time:YYYY/MM/DD}}
-{{date:HH:mm}}
+2024/10/06
+20:54
 
 Status: #child 
 Tags: [[question]]
-# {{title}}
+# Palindrome
 # Question
+
+implement a function to check if a linked list is a palindrome
 # Solution
 
 
