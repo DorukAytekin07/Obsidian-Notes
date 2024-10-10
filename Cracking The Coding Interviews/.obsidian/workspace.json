@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6dc09501afc2dfb7",
+        "id": "e587033f61d97f64",
         "type": "tabs",
         "children": [
           {
-            "id": "21bc3f79c8bd778e",
+            "id": "d6788662079fa6dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Loop Detection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Loop Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Loop Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Rough Notes/Loop Detection.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,30 +140,33 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "21bc3f79c8bd778e",
+  "active": "d6788662079fa6dc",
   "lastOpenFiles": [
-    "6 - Main Notes/One Away.md",
-    "6 - Main Notes/String Rotation.md",
-    "3 - Tags/string.md",
-    "6 - Main Notes/Zero Matrix.md",
-    "1 - Rough Notes/Runner Technique.md",
-    "1 - Rough Notes/Return Kth to Last.md",
-    "1 - Rough Notes/Remove Duplicates.md",
-    "1 - Rough Notes/Partition.md",
-    "1 - Rough Notes/Palindrome.md",
-    "1 - Rough Notes/Loop Detection.md",
-    "1 - Rough Notes/LinkedList.md",
+    "6 - Main Notes/ArrayList & And Resizable Arrays.md",
+    "3 - Tags/dynamic arrays.md",
+    "3 - Tags/arrays.md",
+    "1 - Rough Notes/Delete Middle Node.md",
+    "1 - Rough Notes/Deleting A Node From LinkedList.md",
+    "1 - Rough Notes/Implementing The LinkedLists.md",
     "1 - Rough Notes/Intersection.md",
-    "3 - Tags/matrix.md",
+    "1 - Rough Notes/LinkedList.md",
+    "1 - Rough Notes/Loop Detection.md",
+    "1 - Rough Notes/Palindrome.md",
+    "1 - Rough Notes/Partition.md",
+    "1 - Rough Notes/Remove Duplicates.md",
+    "1 - Rough Notes/Return Kth to Last.md",
+    "1 - Rough Notes/Runner Technique.md",
+    "1 - Rough Notes/Sum Lists.md",
+    "6 - Main Notes/Hashtables.md",
+    "6 - Main Notes/Rotate Matrix.md",
+    "6 - Main Notes/String Rotation.md",
     "6 - Main Notes/Palindrome Permutation.md",
-    "6 - Main Notes/Checking Permutation.md",
-    "6 - Main Notes/String Compression.md",
+    "6 - Main Notes/One Away.md",
     "6 - Main Notes/Is Unique.md",
-    "3 - Tags/hash table.md",
+    "6 - Main Notes/Checking Permutation.md",
+    "2 - Source Materials/📙 Cracking The Coding Interviews.md",
+    "6 - Main Notes/String Compression.md",
     "6 - Main Notes/URLify.md",
-    "3 - Tags/counting.md",
-    "3 - Tags/sorting.md",
-    "3 - Tags/two pointer.md",
-    "5 - Templates/Questions' Template.md"
+    "6 - Main Notes/Zero Matrix.md"
   ]
 }
