@@ -2,7 +2,7 @@
 18:43
 
 Status: #adult 
-Tags: [[question]]
+Tags: [[question]] [[hash table]]
 # Is Unique
 
 # Question

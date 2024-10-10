@@ -16,7 +16,11 @@ pale, bake -> false
 
 # Solution
 
+to solve this problem firstly we have to understand what is the operations make after this we can start to coding (by the way our solution is wrong fix it in the future)
 
+```python
+
+```
 
 # References
 

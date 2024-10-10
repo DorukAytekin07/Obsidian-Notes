@@ -2,7 +2,7 @@
 18:50
 
 Status: #adult 
-Tags: [[question]]
+Tags: [[question]] [[sorting]] [[counting]]
 # Checking Permutation
 
 
