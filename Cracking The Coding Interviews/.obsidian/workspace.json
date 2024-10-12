@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e587033f61d97f64",
+        "id": "2946a3a4a5eb4876",
         "type": "tabs",
         "children": [
           {
-            "id": "d6788662079fa6dc",
+            "id": "e2800203f17984f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#baby",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,8 +140,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d6788662079fa6dc",
+  "active": "e2800203f17984f0",
   "lastOpenFiles": [
+    "2 - Source Materials/📙 Cracking The Coding Interviews.md",
+    "6 - Main Notes/Runner Technique.md",
+    "6 - Main Notes/Deleting A Node From Linked List.md",
+    "3 - Tags/deleting.md",
+    "^",
+    "1 - Rough Notes/Delete Middle Node.md",
+    "6 - Main Notes/Implementing The Linked Lists.md",
+    "6 - Main Notes/LinkedList.md",
+    "3 - Tags/linked list.md",
+    "1 - Rough Notes/Sum Lists.md",
+    "1 - Rough Notes/Return Kth to Last.md",
+    "1 - Rough Notes/Remove Duplicates.md",
+    "1 - Rough Notes/Partition.md",
+    "1 - Rough Notes/Palindrome.md",
+    "1 - Rough Notes/Loop Detection.md",
+    "6 - Main Notes/Checking Permutation.md",
     "6 - Main Notes/Zero Matrix.md",
     "6 - Main Notes/URLify.md",
     "6 - Main Notes/String Rotation.md",
@@ -151,22 +167,6 @@
     "6 - Main Notes/One Away.md",
     "3 - Tags/implementing.md",
     "6 - Main Notes/Is Unique.md",
-    "6 - Main Notes/Hashtables.md",
-    "6 - Main Notes/Checking Permutation.md",
-    "6 - Main Notes/ArrayList & And Resizable Arrays.md",
-    "3 - Tags/dynamic arrays.md",
-    "3 - Tags/arrays.md",
-    "1 - Rough Notes/Delete Middle Node.md",
-    "1 - Rough Notes/Deleting A Node From LinkedList.md",
-    "1 - Rough Notes/Implementing The LinkedLists.md",
-    "1 - Rough Notes/Intersection.md",
-    "1 - Rough Notes/LinkedList.md",
-    "1 - Rough Notes/Loop Detection.md",
-    "1 - Rough Notes/Palindrome.md",
-    "1 - Rough Notes/Partition.md",
-    "1 - Rough Notes/Remove Duplicates.md",
-    "1 - Rough Notes/Return Kth to Last.md",
-    "1 - Rough Notes/Runner Technique.md",
-    "1 - Rough Notes/Sum Lists.md"
+    "6 - Main Notes/Hashtables.md"
   ]
 }
