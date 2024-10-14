@@ -11,13 +11,8 @@
             "id": "ff389d0cdc6972bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Delete Middle Node.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Delete Middle Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Delete Middle Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Main Notes/Delete Middle Node.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,10 +142,13 @@
   },
   "active": "ff389d0cdc6972bb",
   "lastOpenFiles": [
+    "6 - Main Notes/Partition.md",
+    "6 - Main Notes/Sum Lists.md",
+    "3 - Tags/temporary buffer.md",
+    "6 - Main Notes/Delete Middle Node.md",
     "3 - Tags/question.md",
     "6 - Main Notes/Remove Duplicates.md",
     "3 - Tags/brute force.md",
-    "6 - Main Notes/Delete Middle Node.md",
     "6 - Main Notes/Return Kth to Last.md",
     "6 - Main Notes/LinkedList.md",
     "6 - Main Notes/URLify.md",
@@ -168,15 +162,12 @@
     "3 - Tags/deleting.md",
     "^",
     "6 - Main Notes/Implementing The Linked Lists.md",
-    "1 - Rough Notes/Sum Lists.md",
-    "1 - Rough Notes/Partition.md",
     "1 - Rough Notes/Palindrome.md",
     "1 - Rough Notes/Loop Detection.md",
     "6 - Main Notes/String Rotation.md",
     "6 - Main Notes/String Compression.md",
     "6 - Main Notes/Rotate Matrix.md",
     "6 - Main Notes/Palindrome Permutation.md",
-    "6 - Main Notes/One Away.md",
-    "3 - Tags/implementing.md"
+    "6 - Main Notes/One Away.md"
   ]
 }
