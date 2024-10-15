@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c1ee903b5ce7ac6",
+        "id": "fbae40021c431290",
         "type": "tabs",
         "children": [
           {
-            "id": "ff389d0cdc6972bb",
+            "id": "076a98a269a379dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -140,8 +140,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ff389d0cdc6972bb",
+  "active": "076a98a269a379dc",
   "lastOpenFiles": [
+    "6 - Main Notes/Loop Detection.md",
+    "6 - Main Notes/Palindrome.md",
+    "3 - Tags/reverse.md",
+    "6 - Main Notes/Return Kth to Last.md",
+    "3 - Tags/two pointer.md",
     "6 - Main Notes/Partition.md",
     "6 - Main Notes/Sum Lists.md",
     "3 - Tags/temporary buffer.md",
@@ -149,7 +154,6 @@
     "3 - Tags/question.md",
     "6 - Main Notes/Remove Duplicates.md",
     "3 - Tags/brute force.md",
-    "6 - Main Notes/Return Kth to Last.md",
     "6 - Main Notes/LinkedList.md",
     "6 - Main Notes/URLify.md",
     "6 - Main Notes/Zero Matrix.md",
@@ -162,12 +166,8 @@
     "3 - Tags/deleting.md",
     "^",
     "6 - Main Notes/Implementing The Linked Lists.md",
-    "1 - Rough Notes/Palindrome.md",
-    "1 - Rough Notes/Loop Detection.md",
     "6 - Main Notes/String Rotation.md",
     "6 - Main Notes/String Compression.md",
-    "6 - Main Notes/Rotate Matrix.md",
-    "6 - Main Notes/Palindrome Permutation.md",
-    "6 - Main Notes/One Away.md"
+    "6 - Main Notes/Rotate Matrix.md"
   ]
 }
