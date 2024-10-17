@@ -11,13 +11,10 @@
             "id": "076a98a269a379dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Intersection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -40,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Intersection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -103,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Intersection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -117,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Main Notes/Intersection.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -151,6 +158,12 @@
   },
   "active": "076a98a269a379dc",
   "lastOpenFiles": [
+    "1 - Rough Notes/Queue Implementation.md",
+    "3 - Tags/queue.md",
+    "1 - Rough Notes/Stack Implementation.md",
+    "2 - Source Materials/📙 Cracking The Coding Interviews.md",
+    "3 - Tags/stacks.md",
+    "6 - Main Notes/Intersection.md",
     "6 - Main Notes/Loop Detection.md",
     "6 - Main Notes/Palindrome.md",
     "3 - Tags/reverse.md",
@@ -170,13 +183,7 @@
     "6 - Main Notes/Deleting A Node From Linked List.md",
     "6 - Main Notes/Checking Permutation.md",
     "6 - Main Notes/ArrayList & And Resizable Arrays.md",
-    "2 - Source Materials/📙 Cracking The Coding Interviews.md",
     "6 - Main Notes/Runner Technique.md",
-    "3 - Tags/deleting.md",
-    "^",
-    "6 - Main Notes/Implementing The Linked Lists.md",
-    "6 - Main Notes/String Rotation.md",
-    "6 - Main Notes/String Compression.md",
-    "6 - Main Notes/Rotate Matrix.md"
+    "^"
   ]
 }
