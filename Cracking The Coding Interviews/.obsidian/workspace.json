@@ -11,10 +11,15 @@
             "id": "076a98a269a379dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Queue Implementation.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Queue Implementation"
             }
           }
         ]
@@ -158,9 +163,9 @@
   },
   "active": "076a98a269a379dc",
   "lastOpenFiles": [
+    "6 - Main Notes/Stack Implementation.md",
     "1 - Rough Notes/Queue Implementation.md",
     "3 - Tags/queue.md",
-    "1 - Rough Notes/Stack Implementation.md",
     "2 - Source Materials/📙 Cracking The Coding Interviews.md",
     "3 - Tags/stacks.md",
     "6 - Main Notes/Intersection.md",
