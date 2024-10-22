@@ -1,9 +1,10 @@
-{{time:YYYY/MM/DD}}
-{{date:HH:mm}}
+2024/10/22
+16:24
 
 Status: #child
 Tags:
-# {{title}}
+# George Boole
+
 
 
 # References

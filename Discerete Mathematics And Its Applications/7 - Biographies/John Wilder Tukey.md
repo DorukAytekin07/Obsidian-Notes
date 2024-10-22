@@ -1,9 +1,9 @@
-{{time:YYYY/MM/DD}}
-{{date:HH:mm}}
+2024/10/22
+17:15
 
 Status: #child
 Tags:
-# {{title}}
+# John Wilder Tukey
 
 
 # References

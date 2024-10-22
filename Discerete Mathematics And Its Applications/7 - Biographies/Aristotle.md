@@ -1,9 +1,11 @@
-{{time:YYYY/MM/DD}}
-{{date:HH:mm}}
+2024/10/22
+16:06
 
 Status: #child
 Tags:
-# {{title}}
+# Aristotle
+
+
 
 
 # References

@@ -2,7 +2,7 @@
   "defaultViewMode": "preview",
   "livePreview": true,
   "vimMode": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "propertiesInDocument": "visible",
   "showLineNumber": true,
   "rightToLeft": false,

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"1 - Rough Notes\"  ",
@@ -50,21 +50,14 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"7 - Biographies\"  ",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "",
+      "query": "path:\"8 - Daily Words\"  ",
       "color": {
         "a": 1,
         "rgb": 14701233
@@ -81,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4444444444444444,
-  "close": false
+  "scale": 0.4444444444444442,
+  "close": true
 }
