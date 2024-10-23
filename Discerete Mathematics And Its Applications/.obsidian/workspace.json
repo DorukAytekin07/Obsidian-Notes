@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6eb7c4302f3c1c87",
+        "id": "68ef51efd337e235",
         "type": "tabs",
         "children": [
           {
-            "id": "488be0450fcde3b5",
+            "id": "0490a662b723176f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Conditional Statements.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Conditional Statements"
             }
           }
         ]
@@ -156,16 +161,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "488be0450fcde3b5",
+  "active": "3bffcea0c17f1fd4",
   "lastOpenFiles": [
+    "6 - Main Notes/Logic Circuits.md",
+    "3 - Tags/logic circuit.md",
+    "6 - Main Notes/Logic Puzzles.md",
+    "3 - Tags/logic puzzles.md",
+    "6 - Main Notes/Boolean Searches.md",
+    "3 - Tags/boolean search.md",
+    "3 - Tags/logical connectives.md",
+    "6 - Main Notes/System Specification.md",
+    "6 - Main Notes/Translating English Sentences.md",
+    "3 - Tags/translate the sentences.md",
     "5 - Templates/Biographies' Template.md",
     "8 - Daily Words/10-23-2024 Daily Words.md",
-    "1 - Rough Notes/Logic Circuits.md",
-    "1 - Rough Notes/Logic Puzzles.md",
     "7 - Biographies/Raymond Smullyan.md",
-    "1 - Rough Notes/Boolean Searches.md",
-    "1 - Rough Notes/System Specification.md",
-    "1 - Rough Notes/Translating English Sentences.md",
     "8 - Daily Words/10-22-2024 Daily Words.md",
     "2 - Source Materials/Discrete Mathematics And Its Applications.md",
     "6 - Main Notes/Logic And Bit Operations.md",
@@ -179,11 +189,6 @@
     "6 - Main Notes/Propositions.md",
     "3 - Tags/logical operators.md",
     "3 - Tags/proposition.md",
-    "7 - Biographies/John Wilder Tukey.md",
-    "7 - Biographies/George Boole.md",
-    "7 - Biographies/Aristotle.md",
-    "2 - Source Materials/Daily Words.md",
-    "2 - Source Materials/Biographies.md",
     "Untitled",
     "8 - Daily Words",
     "Biographies",
