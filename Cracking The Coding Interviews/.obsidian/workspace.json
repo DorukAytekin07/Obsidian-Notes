@@ -11,10 +11,15 @@
             "id": "e527652aacebdfc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Graph Search.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Graph Search"
             }
           }
         ]
@@ -158,6 +163,12 @@
   },
   "active": "e527652aacebdfc0",
   "lastOpenFiles": [
+    "1 - Rough Notes/Graphs.md",
+    "1 - Rough Notes/Graph Search.md",
+    "1 - Rough Notes/Binary Heaps.md",
+    "1 - Rough Notes/Binary Tree Traversal.md",
+    "1 - Rough Notes/Tress.md",
+    "6 - Main Notes/ArrayList & And Resizable Arrays.md",
     "6 - Main Notes/Animal Shelter.md",
     "5 - Templates/Notes' Template.md",
     "6 - Main Notes/Sort Stacks.md",
@@ -178,12 +189,6 @@
     "6 - Main Notes/Return Kth to Last.md",
     "3 - Tags/two pointer.md",
     "6 - Main Notes/Partition.md",
-    "6 - Main Notes/Sum Lists.md",
-    "3 - Tags/temporary buffer.md",
-    "6 - Main Notes/Delete Middle Node.md",
-    "3 - Tags/question.md",
-    "6 - Main Notes/Remove Duplicates.md",
-    "3 - Tags/brute force.md",
     "^"
   ]
 }
