@@ -19,7 +19,6 @@ research them
 # Detailed Research
 
 
-
 # References
 
-[[Discrete Mathematics And Its Applications#Logic#Conditional Statements]]
+[[Discrete Mathematics And Its Applications#Propositional Logic#Conditional Statemens]]
