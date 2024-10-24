@@ -7,7 +7,7 @@ Tags:
 
 
 # Hot Notes
-- important of can solving the satisfiability problems
+- solving  of the satisfiability problems
 
 # Detailed Research
 
