@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Solving Satisfiability Problems.md",
+                "file": "1 - Rough Notes/Applications Of Satisfiability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solving Satisfiability Problems"
+              "title": "Applications Of Satisfiability"
             }
           }
         ]
@@ -163,14 +163,14 @@
   },
   "active": "0490a662b723176f",
   "lastOpenFiles": [
-    "1 - Rough Notes/Applications Of Satisfiability.md",
-    "1 - Rough Notes/Solving Satisfiability Problems.md",
+    "1 - Rough Notes/Logical Equivalences.md",
     "1 - Rough Notes/Satisfiability.md",
+    "1 - Rough Notes/Solving Satisfiability Problems.md",
     "1 - Rough Notes/Using De Morgans's Laws.md",
     "1 - Rough Notes/Constructing New Logical Equvilances.md",
-    "2 - Source Materials/Discrete Mathematics And Its Applications.md",
-    "1 - Rough Notes/Logical Equivalences.md",
     "1 - Rough Notes/Conditional Statements.md",
+    "1 - Rough Notes/Applications Of Satisfiability.md",
+    "2 - Source Materials/Discrete Mathematics And Its Applications.md",
     "6 - Main Notes/Logic Circuits.md",
     "3 - Tags/logic circuit.md",
     "6 - Main Notes/Logic Puzzles.md",
