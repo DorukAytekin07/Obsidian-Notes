@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Conditional Statements.md",
-                "mode": "preview",
+                "file": "1 - Rough Notes/Solving Satisfiability Problems.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional Statements"
+              "title": "Solving Satisfiability Problems"
             }
           }
         ]
@@ -161,8 +161,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bffcea0c17f1fd4",
+  "active": "0490a662b723176f",
   "lastOpenFiles": [
+    "1 - Rough Notes/Applications Of Satisfiability.md",
+    "1 - Rough Notes/Solving Satisfiability Problems.md",
+    "1 - Rough Notes/Satisfiability.md",
+    "1 - Rough Notes/Using De Morgans's Laws.md",
+    "1 - Rough Notes/Constructing New Logical Equvilances.md",
+    "2 - Source Materials/Discrete Mathematics And Its Applications.md",
+    "1 - Rough Notes/Logical Equivalences.md",
+    "1 - Rough Notes/Conditional Statements.md",
     "6 - Main Notes/Logic Circuits.md",
     "3 - Tags/logic circuit.md",
     "6 - Main Notes/Logic Puzzles.md",
@@ -177,18 +185,10 @@
     "8 - Daily Words/10-23-2024 Daily Words.md",
     "7 - Biographies/Raymond Smullyan.md",
     "8 - Daily Words/10-22-2024 Daily Words.md",
-    "2 - Source Materials/Discrete Mathematics And Its Applications.md",
     "6 - Main Notes/Logic And Bit Operations.md",
-    "1 - Rough Notes/Conditional Statements.md",
     "6 - Main Notes/Truth Tables Of Compound Statements.md",
     "3 - Tags/construct truth table.md",
     "3 - Tags/compound proposition.md",
-    "3 - Tags/bitwise operators.md",
-    "6 - Main Notes/Precedence Of Logical Operators.md",
-    "3 - Tags/precedence of operations.md",
-    "6 - Main Notes/Propositions.md",
-    "3 - Tags/logical operators.md",
-    "3 - Tags/proposition.md",
     "Untitled",
     "8 - Daily Words",
     "Biographies",

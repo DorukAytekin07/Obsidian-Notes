@@ -2,3 +2,4 @@
 
 # Applications Of Propositional Logic
 
+# Propositional Equivalences
