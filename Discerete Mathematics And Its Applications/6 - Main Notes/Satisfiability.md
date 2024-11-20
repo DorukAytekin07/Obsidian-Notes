@@ -2,7 +2,7 @@
 16:14
 
 Status: #adult 
-Tags: [[satisfiabiliy]]
+Tags: [[satisfiabiliy]] 
 # Satisfiability
 # Hot Notes
 - what is satisfiability and unsatisfiability

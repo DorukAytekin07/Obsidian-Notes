@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "775e47deac1498fa",
+        "id": "116d35440330104b",
         "type": "tabs",
         "children": [
           {
-            "id": "aba5c596b6f1e85a",
+            "id": "45ac0d57274bb9e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Applications Of Satisfiability.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Applications Of Satisfiability"
+              "title": "New tab"
             }
           }
         ]
@@ -161,34 +156,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aba5c596b6f1e85a",
+  "active": "45ac0d57274bb9e1",
   "lastOpenFiles": [
-    "1 - Rough Notes/Conditional Statements.md",
-    "1 - Rough Notes/Solving Satisfiability Problems.md",
-    "2 - Source Materials/Discrete Mathematics And Its Applications.md",
-    "7 - Biographies/Henry Maurice Sheffer.md",
-    "6 - Main Notes/Satisfiability.md",
-    "3 - Tags/satisfiabiliy.md",
-    "8 - Daily Words/10-24-2024 Daily Words.md",
-    "7 - Biographies/Augusta Ada.md",
-    "7 - Biographies/Augustus De Morgan.md",
-    "6 - Main Notes/Constructing New Logical Equivalences.md",
-    "6 - Main Notes/Logical Equivalences.md",
-    "6 - Main Notes/Using De Morgans's Laws.md",
-    "3 - Tags/logical equivalences.md",
-    "7 - Biographies/Raymond Smullyan.md",
-    "7 - Biographies/John Wilder Tukey.md",
-    "7 - Biographies/George Boole.md",
-    "7 - Biographies/Aristotle.md",
+    "8 - Daily Words/11-20-2024 Dail Words.md",
+    "1 - Rough Notes/Mistakes In Proofs.md",
+    "1 - Rough Notes/Proof By Contradiction.md",
+    "3 - Tags/proof by contradiction.md",
+    "1 - Rough Notes/Indirect Proofs.md",
+    "1 - Rough Notes/Direct Proofs.md",
+    "1 - Rough Notes/Methods Of Proving Theorems.md",
+    "1 - Rough Notes/Proof Terminology.md",
+    "4 - Indexes/The Foundations Logic And Proofs.md",
+    "1 - Rough Notes/Rules Of Inference For Propositional Logic.md",
     "1 - Rough Notes/Applications Of Satisfiability.md",
-    "6 - Main Notes/Logic Circuits.md",
-    "3 - Tags/logic circuit.md",
-    "6 - Main Notes/Logic Puzzles.md",
-    "3 - Tags/logic puzzles.md",
-    "6 - Main Notes/Boolean Searches.md",
-    "3 - Tags/boolean search.md",
-    "3 - Tags/logical connectives.md",
-    "6 - Main Notes/System Specification.md",
+    "1 - Rough Notes/Logical Equivalences Involving Quantifiers.md",
+    "1 - Rough Notes/Solving Satisfiability Problems.md",
+    "1 - Rough Notes/Binding Variables.md",
+    "1 - Rough Notes/Examples From Lewis Caroll.md",
+    "1 - Rough Notes/Conditional Statements.md",
+    "8 - Daily Words/11-19-2024 Daily Words.md",
+    "8 - Daily Words/11-18-2024 Daily Words.md",
+    "8 - Daily Words/10-24-2024 Daily Words.md",
+    "8 - Daily Words/10-23-2024 Daily Words.md",
+    "8 - Daily Words/10-22-2024 Daily Words.md",
+    "6 - Main Notes/Satisfiability.md",
+    "5 - Templates/Biographies' Template.md",
+    "5 - Templates/Notes's Template.md",
+    "2 - Source Materials/Discrete Mathematics And Its Applications.md",
+    "1 - Rough Notes/Nested Qunatifiers.md",
     "Untitled",
     "8 - Daily Words",
     "Biographies",

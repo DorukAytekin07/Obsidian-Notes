@@ -1,0 +1,7 @@
+inference
+syllogism
+
+
+
+
+[[Daily Words]]
