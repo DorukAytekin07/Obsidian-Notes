@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "116d35440330104b",
+        "id": "97609d79b8b3e008",
         "type": "tabs",
         "children": [
           {
-            "id": "45ac0d57274bb9e1",
+            "id": "e15e5572c0fbf421",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Looking For Counterexample.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Looking For Counterexample"
             }
           }
         ]
@@ -156,8 +161,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45ac0d57274bb9e1",
+  "active": "e15e5572c0fbf421",
   "lastOpenFiles": [
+    "1 - Rough Notes/Role Of The Open Problems.md",
+    "1 - Rough Notes/Looking For Counterexample.md",
+    "1 - Rough Notes/Proof Strategies.md",
+    "1 - Rough Notes/Existence Proofs.md",
+    "1 - Rough Notes/Exhaustive Proof And Proof By Cases.md",
+    "4 - Indexes/The Foundations Logic And Proofs.md",
     "8 - Daily Words/11-20-2024 Dail Words.md",
     "1 - Rough Notes/Mistakes In Proofs.md",
     "1 - Rough Notes/Proof By Contradiction.md",
@@ -166,7 +177,6 @@
     "1 - Rough Notes/Direct Proofs.md",
     "1 - Rough Notes/Methods Of Proving Theorems.md",
     "1 - Rough Notes/Proof Terminology.md",
-    "4 - Indexes/The Foundations Logic And Proofs.md",
     "1 - Rough Notes/Rules Of Inference For Propositional Logic.md",
     "1 - Rough Notes/Applications Of Satisfiability.md",
     "1 - Rough Notes/Logical Equivalences Involving Quantifiers.md",
@@ -179,11 +189,6 @@
     "8 - Daily Words/10-24-2024 Daily Words.md",
     "8 - Daily Words/10-23-2024 Daily Words.md",
     "8 - Daily Words/10-22-2024 Daily Words.md",
-    "6 - Main Notes/Satisfiability.md",
-    "5 - Templates/Biographies' Template.md",
-    "5 - Templates/Notes's Template.md",
-    "2 - Source Materials/Discrete Mathematics And Its Applications.md",
-    "1 - Rough Notes/Nested Qunatifiers.md",
     "Untitled",
     "8 - Daily Words",
     "Biographies",
